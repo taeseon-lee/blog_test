@@ -14,15 +14,13 @@ PS. 에어팟프로 구냥 사려구했는데 올해 하반기에 2가 나온대
 
 
 <div class="image_container">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image0 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image1 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image2 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image3 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image4 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image6 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image7 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image8 }}">
-    <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image9 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image0 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image1 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image2 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image3 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image8 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image6 }}">
+    <img src="{{ site.baseurl }}{{ site.image.image7 }}">
 </div>
 
 <!-- The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->

@@ -289,6 +289,9 @@ footer {
   grid-template-rows: 1fr 1fr 1fr;
   row-gap: 2px;
   column-gap: 2px;
+  border: 1px #ffd1dc solid;
+  align-items: stretch;
+  justify-items: stretch;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
