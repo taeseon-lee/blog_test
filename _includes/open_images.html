@@ -1,0 +1,11 @@
+<script type="text/javascript">
+    (function() {
+        var images = document.getElementsByTagName("img");
+
+        for (var i = 1; i < images.length; i++) {
+            images[i].addEventListener('click', function() {
+                location.href = this.src;
+            })
+        }
+    })();
+</script>
