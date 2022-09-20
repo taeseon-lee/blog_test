@@ -84,3 +84,16 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# 사진들
+image:
+  image0: "/images/image_100/0.png"
+  image1: "/images/image_100/1.png"
+  image2: "/images/image_100/2.png"
+  image3: "/images/image_100/3.png"
+  image4: "/images/image_100/4.png"
+  image5: "/images/image_100/5.png"
+  image6: "/images/image_100/6.png"
+  image7: "/images/image_100/7.png"
+  image8: "/images/image_100/8.png"
+  image9: "/images/image_100/9.png"

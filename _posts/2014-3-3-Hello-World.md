@@ -12,17 +12,23 @@ title: 사랑하는 지수
 <br/>
 PS. 에어팟프로 구냥 사려구했는데 올해 하반기에 2가 나온대!그래서 뭐가 좋을지 고민해조!
 
+
 <div class="image_container">
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/0.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/1.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/2.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/3.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/4.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/5.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/6.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/7.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/8.png)</div>
-<div style="height: 100px; width: 100px">![_config.yml]({{ site.baseurl }}/images/image_100/9.png)</div>
+    <div>
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image0 }}">
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image1 }}">
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image2 }}">
+    </div>
+    <div>
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image3 }}">
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image4 }}">
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image6 }}">
+    </div>
+    <div>
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image7 }}">
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image8 }}">
+        <img style="height: 100px; width: 100px" src="{{ site.baseurl }}{{ site.image.image9 }}">
+    </div>
 </div>
 
 <!-- The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->
